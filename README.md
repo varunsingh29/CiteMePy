@@ -54,8 +54,11 @@ It outputs **all** the strings with that citation number. Here, 3 lines had cita
 
 >String(s)
 >21: Goodman began using the globe logo of the Atlas News Company, the newsstand-distribution company he owned, on comics cover-dated November 1951 even though another company, Kable News, continued to distribute his comics through the August 1952 issues.
+
 >21: In 1968, while selling 50 million comic books a year, company founder Goodman revised the constraining distribution arrangement with Independent News he had reached under duress during the Atlas years, allowing him now to release as many titles as demand warranted.
+
 >21:  In 1969, Goodman finally ended his distribution deal with Independent by signing with Curtis Circulation Company.
+
 
 
 If Choice is 2
@@ -65,6 +68,7 @@ Enter string: With few books issued under the imprint, Marvel and Disney Books G
 ```
 
 >Citation(s)
+
 >112
 
 ---------

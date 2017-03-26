@@ -71,7 +71,7 @@ def cite_others(cur_tag):
 
     for sibling in cur_tag.next_siblings:
         if sibling.string is None:
-            for temp in sibling.stipped_strings:
+            for temp in sibling.stripped_strings:
                 list_string_next.append(line)
         else:
             list_string_next.append(sibling.string)
